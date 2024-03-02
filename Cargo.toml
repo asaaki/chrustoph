@@ -1,0 +1,8 @@
+[package]
+name = "chrustoph"
+description = "Chrustoph, the one and only"
+version = "1.0.1"
+edition = "2021"
+license-file = "LICENSE"
+repository = "https://github.com/asaaki/chrustoph"
+homepage = "https://github.com/asaaki/chrustoph"
